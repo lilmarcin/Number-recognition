@@ -9,4 +9,4 @@ Dataset used in training
 https://drive.google.com/file/d/1cZr91zzHl93H1cbmIwx_7upfQPPMPi33/view
 
 # Test on images
-![Test on images](https://raw.githubusercontent.com/lilmarcin/Number-recognition/main/test1.png)
+![Test on images](https://raw.githubusercontent.com/lilmarcin/Number-recognition/main/numbers.png)
